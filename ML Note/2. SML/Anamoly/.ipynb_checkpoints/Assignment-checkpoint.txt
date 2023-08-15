@@ -1,0 +1,6 @@
+Anomaly Detection
+1)	What are outliers?
+2)	Why do we use Anomaly detection?
+3)	What are different types of Anomalies?
+4)	Explain different methods to perform anomaly detection.
+5)	Discuss some applications of Anomaly detection.
